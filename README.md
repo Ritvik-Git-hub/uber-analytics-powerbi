@@ -48,7 +48,6 @@ This page analyzes:
 
 ### Cancellation & Failure Analysis
 
-![Cancellation Analysis]((https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%203.png))
-
+![Cancellation Analysis](Outputs%20SS/Page%203.png)
 
 Ritvik Sukkal
