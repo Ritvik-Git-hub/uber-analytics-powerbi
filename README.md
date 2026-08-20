@@ -44,12 +44,11 @@ This page analyzes:
 
 ### Executive Overview
 
-![Executive Overview]([Outputs SS/Page 2.png](https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%202.png))
+![Executive Overview]([Outputs Page 2](https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%202.png))
 
 ### Cancellation & Failure Analysis
 
-![Cancellation Analysis]([screenshots/cancellation-analysis.png](https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%203.png))
-
+![Cancellation Analysis]([[screenshots/cancellation-analysis.png]
 ## 📁 Project Files
 
 - `Uber_Analytics.pbix` — Power BI project
