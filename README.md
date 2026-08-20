@@ -51,13 +51,4 @@ This page analyzes:
 ![Cancellation Analysis]((https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%203.png))
 
 
-
-
-## 📁 Project Files
-
-- `Uber_Analytics.pbix` — Power BI project
-- `screenshots/` — Dashboard screenshots
-
-## 👨‍💻 Author
-
 Ritvik Sukkal
