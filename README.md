@@ -44,7 +44,7 @@ This page analyzes:
 
 ### Executive Overview
 
-![Executive Overview]([Outputs Page 2](https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%202.png))
+![Executive Overview](Outputs%20SS/Page%202.png)
 
 ### Cancellation & Failure Analysis
 
