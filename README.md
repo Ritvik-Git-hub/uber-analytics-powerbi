@@ -7,9 +7,6 @@ An interactive Power BI dashboard designed to analyze Uber ride
 performance, revenue, completed rides, vehicle performance, and
 cancellation patterns.
 
-## 📊 Live Dashboard
-
-👉 [Open Interactive Power BI Dashboard](PASTE-YOUR-POWER-BI-LINK-HERE)
 
 ## 📌 Dashboard Pages
 
