@@ -48,7 +48,11 @@ This page analyzes:
 
 ### Cancellation & Failure Analysis
 
-![Cancellation Analysis]([[screenshots/cancellation-analysis.png]
+![Cancellation Analysis]((https://github.com/Ritvik-Git-hub/uber-analytics-powerbi/blob/main/Outputs%20SS/Page%203.png))
+
+
+
+
 ## 📁 Project Files
 
 - `Uber_Analytics.pbix` — Power BI project
