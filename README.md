@@ -44,7 +44,7 @@ This page analyzes:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](Outputs SS/Page 2.png)
 
 ### Cancellation & Failure Analysis
 
